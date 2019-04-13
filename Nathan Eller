@@ -1,0 +1,15 @@
+O que é FireWall?  
+R:  firewall é uma barreira de proteção que ajuda a bloquear o acesso de conteúdo malicioso, mas sem impedir que os dados que precisam transitar continuem fluindo.
+2  Como um FireWall funciona? 
+R:  Na prática, o firewall atua como um filtro, que analisa o tráfego da rede para identificar possíveis ameaças presentes nas atividades de recepção e transmissão de dados.
+3  Cite e descreva os tipos de FireWall ? 
+R : Packet Filtering  , Proxy service , Stateful Inspection . 
+4 Cite e descreva as arquiteturas do FireWall? 
+R:Arquitetura Dual-Homed Host  O nome se deve ao fato de este host possuir ao menos duas interfaces de rede, uma para cada "lado".
+Screened Host atua entre o roteador e a rede interna ,  Screened Subnet  fica entre a rede interna e a rede externa 
+5 Explique sobre FireWalls de hardware ? 
+Uma firewall de hardware é uma parte física do equipamento ligado a um sistema de computador. 
+6  Quais são as limitações de um FireWall ? 
+R: Um firewall não consegue impedir um ataque cuja origem e destino seja a rede interna , 
+não aumentam força de senhas , não conseguem impedir que usuários acessem sites com códigos maliciosos. 
+podem comprometer o desempenho da rede.
